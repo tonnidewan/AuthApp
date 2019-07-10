@@ -1,1 +1,3 @@
 # AuthApp
+This application is based on authentication using facebook and email...
+It is built using react native.So, user can run it on both Android and IOS.
